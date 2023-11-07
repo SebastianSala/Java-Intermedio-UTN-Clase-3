@@ -2,6 +2,7 @@
 /build
 /dist
 /nbproject
+/target
 
 # Ignore test-related files or directories
 /test
