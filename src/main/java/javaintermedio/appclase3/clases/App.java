@@ -9,7 +9,7 @@ public class App {
 
   public void run() {
     
-    String[] words = {"uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve", "dies"};
+    String[] words = {"uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve", "diez"};
     List<String> text = Arrays.asList(words);
 
     Transformador transformador = new Transformador();
